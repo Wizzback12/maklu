@@ -1,1 +1,13 @@
-{}
+{
+  "msmkylrndeg3a": {
+    "job_id": "msmkylrndeg3a",
+    "release_id": 367641318,
+    "release_tag": "build-msmkylrndeg3a",
+    "run_id": 31348417014,
+    "user_id": 2114428721,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-10T01:56:26.901Z"
+  }
+}
