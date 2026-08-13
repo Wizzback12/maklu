@@ -514,5 +514,16 @@
     "status": "failed",
     "created_at": "2026-08-13T07:27:11.291Z",
     "completed_at": "2026-08-13T07:27:33.754Z"
+  },
+  "msr8v4iw1ntjv": {
+    "job_id": "msr8v4iw1ntjv",
+    "release_id": 369761222,
+    "release_tag": "build-msr8v4iw1ntjv",
+    "run_id": 31681345543,
+    "user_id": 8783578874,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T08:16:41.271Z"
   }
 }
