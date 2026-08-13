@@ -402,8 +402,9 @@
     "user_id": 5558145825,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-13T05:54:31.835Z"
+    "status": "success",
+    "created_at": "2026-08-13T05:54:31.835Z",
+    "completed_at": "2026-08-13T06:00:16.875Z"
   },
   "msr3tz64s65z6": {
     "job_id": "msr3tz64s65z6",
