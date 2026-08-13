@@ -166,5 +166,16 @@
     "status": "success",
     "created_at": "2026-08-10T12:10:14.936Z",
     "completed_at": "2026-08-10T12:18:22.484Z"
+  },
+  "msquxw7fefxnj": {
+    "job_id": "msquxw7fefxnj",
+    "release_id": 369621407,
+    "release_tag": "build-msquxw7fefxnj",
+    "run_id": 31658787273,
+    "user_id": 2114428721,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T01:46:59.233Z"
   }
 }
