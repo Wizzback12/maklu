@@ -682,5 +682,16 @@
     "status": "failed",
     "created_at": "2026-08-13T09:45:22.984Z",
     "completed_at": "2026-08-13T09:45:58.981Z"
+  },
+  "msrc5ckwoq0x8": {
+    "job_id": "msrc5ckwoq0x8",
+    "release_id": 369809793,
+    "release_tag": "build-msrc5ckwoq0x8",
+    "run_id": 31688269201,
+    "user_id": 7846858206,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T09:48:40.112Z"
   }
 }
