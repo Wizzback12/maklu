@@ -418,5 +418,16 @@
     "status": "success",
     "created_at": "2026-08-13T05:55:50.191Z",
     "completed_at": "2026-08-13T06:03:55.894Z"
+  },
+  "msr5bx0c6exho": {
+    "job_id": "msr5bx0c6exho",
+    "release_id": 369711600,
+    "release_tag": "build-msr5bx0c6exho",
+    "run_id": 31674541807,
+    "user_id": 8952954241,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T06:37:46.487Z"
   }
 }
