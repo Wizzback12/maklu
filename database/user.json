@@ -41,8 +41,8 @@
     "first_name": "<•FALYZNOTDEV•>",
     "last_name": null,
     "joinedAt": "2026-08-10T06:42:45.660Z",
-    "lastSeenAt": "2026-08-10T07:36:24.465Z",
-    "startCount": 2
+    "lastSeenAt": "2026-08-13T04:11:14.084Z",
+    "startCount": 3
   },
   "8704504715": {
     "id": 8704504715,
@@ -60,6 +60,33 @@
     "last_name": null,
     "joinedAt": "2026-08-13T03:17:58.510Z",
     "lastSeenAt": "2026-08-13T03:17:58.510Z",
+    "startCount": 1
+  },
+  "6535940506": {
+    "id": 6535940506,
+    "username": null,
+    "first_name": "⏤͟͟͞͞𝐂𝐒 𝐑𝐀𝐅𝐙𝐙",
+    "last_name": null,
+    "joinedAt": "2026-08-13T03:45:32.614Z",
+    "lastSeenAt": "2026-08-13T03:45:32.614Z",
+    "startCount": 1
+  },
+  "6806120812": {
+    "id": 6806120812,
+    "username": "Candra1213",
+    "first_name": "ᯓ Candra ˣ ⩇⩇:⩇⩇",
+    "last_name": null,
+    "joinedAt": "2026-08-13T04:00:38.978Z",
+    "lastSeenAt": "2026-08-13T04:00:38.978Z",
+    "startCount": 1
+  },
+  "8112568658": {
+    "id": 8112568658,
+    "username": "Snaxzy_Reals02",
+    "first_name": "⸺Sηαχzγ #TwilightSociety!",
+    "last_name": null,
+    "joinedAt": "2026-08-13T04:16:17.326Z",
+    "lastSeenAt": "2026-08-13T04:16:17.326Z",
     "startCount": 1
   }
 }
