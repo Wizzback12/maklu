@@ -718,5 +718,16 @@
     "status": "failed",
     "created_at": "2026-08-13T10:00:32.461Z",
     "completed_at": "2026-08-13T10:04:08.511Z"
+  },
+  "msrczfuhr8b0u": {
+    "job_id": "msrczfuhr8b0u",
+    "release_id": 369823633,
+    "release_tag": "build-msrczfuhr8b0u",
+    "run_id": 31690021659,
+    "user_id": 859743646,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T10:12:01.135Z"
   }
 }
