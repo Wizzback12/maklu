@@ -646,5 +646,16 @@
     "status": "failed",
     "created_at": "2026-08-13T09:29:38.712Z",
     "completed_at": "2026-08-13T09:32:45.462Z"
+  },
+  "msrbq18sj8xm4": {
+    "job_id": "msrbq18sj8xm4",
+    "release_id": 369803560,
+    "release_tag": "build-msrbq18sj8xm4",
+    "run_id": 31687377861,
+    "user_id": 5558145825,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T09:36:42.560Z"
   }
 }
