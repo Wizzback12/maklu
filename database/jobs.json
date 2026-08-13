@@ -475,8 +475,9 @@
     "user_id": 1705496343,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-13T07:19:29.883Z"
+    "status": "success",
+    "created_at": "2026-08-13T07:19:29.883Z",
+    "completed_at": "2026-08-13T07:26:33.421Z"
   },
   "msr6z3faelcym": {
     "job_id": "msr6z3faelcym",
@@ -488,5 +489,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-13T07:23:53.633Z"
+  },
+  "msr72nyqksant": {
+    "job_id": "msr72nyqksant",
+    "release_id": 369734077,
+    "release_tag": "build-msr72nyqksant",
+    "run_id": 31677769145,
+    "user_id": 7562485429,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T07:26:35.122Z"
   }
 }
