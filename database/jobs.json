@@ -393,5 +393,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-13T05:44:44.456Z"
+  },
+  "msr3sb5krcr7l": {
+    "job_id": "msr3sb5krcr7l",
+    "release_id": 369693447,
+    "release_tag": "build-msr3sb5krcr7l",
+    "run_id": 31671929526,
+    "user_id": 5558145825,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T05:54:31.835Z"
   }
 }
