@@ -259,8 +259,9 @@
     "user_id": 8646356061,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-13T04:01:08.977Z"
+    "status": "timeout",
+    "created_at": "2026-08-13T04:01:08.977Z",
+    "completed_at": "2026-08-13T04:31:14.551Z"
   },
   "msqzqmnkf2kxt": {
     "job_id": "msqzqmnkf2kxt",
