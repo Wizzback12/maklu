@@ -610,5 +610,16 @@
     "status": "failed",
     "created_at": "2026-08-13T09:07:17.799Z",
     "completed_at": "2026-08-13T09:08:02.487Z"
+  },
+  "msrarl5wt9wqg": {
+    "job_id": "msrarl5wt9wqg",
+    "release_id": 369789388,
+    "release_tag": "build-msrarl5wt9wqg",
+    "run_id": 31685331537,
+    "user_id": 8898946116,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-13T09:09:54.970Z"
   }
 }
