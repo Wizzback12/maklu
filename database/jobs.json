@@ -812,5 +812,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-14T15:32:05.568Z"
+  },
+  "mst3wfx8rltec": {
+    "job_id": "mst3wfx8rltec",
+    "release_id": 370665874,
+    "release_tag": "build-mst3wfx8rltec",
+    "run_id": 31815052413,
+    "user_id": 1974927893,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-14T15:33:13.988Z"
   }
 }
