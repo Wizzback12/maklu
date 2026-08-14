@@ -730,5 +730,16 @@
     "status": "failed",
     "created_at": "2026-08-13T10:12:01.135Z",
     "completed_at": "2026-08-13T10:12:45.441Z"
+  },
+  "mst0s26s1an4s": {
+    "job_id": "mst0s26s1an4s",
+    "release_id": 370613694,
+    "release_tag": "build-mst0s26s1an4s",
+    "run_id": 31807837944,
+    "user_id": 8081282605,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-14T14:05:50.621Z"
   }
 }
