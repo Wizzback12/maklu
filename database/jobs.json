@@ -906,8 +906,9 @@
     "user_id": 7589575561,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-14T17:05:02.538Z"
+    "status": "success",
+    "created_at": "2026-08-14T17:05:02.538Z",
+    "completed_at": "2026-08-14T17:14:48.438Z"
   },
   "mst7ey2u35klu": {
     "job_id": "mst7ey2u35klu",
