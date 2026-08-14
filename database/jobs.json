@@ -873,5 +873,16 @@
     "status": "success",
     "created_at": "2026-08-14T15:48:14.902Z",
     "completed_at": "2026-08-14T15:54:53.332Z"
+  },
+  "mst5huhxdbxoe": {
+    "job_id": "mst5huhxdbxoe",
+    "release_id": 370689142,
+    "release_tag": "build-mst5huhxdbxoe",
+    "run_id": 31818653211,
+    "user_id": 8692886878,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-14T16:17:52.368Z"
   }
 }
