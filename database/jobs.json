@@ -930,8 +930,9 @@
     "user_id": 7019524181,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-14T17:52:10.189Z"
+    "status": "failed",
+    "created_at": "2026-08-14T17:52:10.189Z",
+    "completed_at": "2026-08-14T17:57:17.100Z"
   },
   "mst8zqo1r79lv": {
     "job_id": "mst8zqo1r79lv",
