@@ -870,7 +870,8 @@
     "user_id": 8692886878,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-14T15:48:14.902Z"
+    "status": "success",
+    "created_at": "2026-08-14T15:48:14.902Z",
+    "completed_at": "2026-08-14T15:54:53.332Z"
   }
 }
