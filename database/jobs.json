@@ -882,8 +882,9 @@
     "user_id": 8692886878,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-14T16:17:52.368Z"
+    "status": "success",
+    "created_at": "2026-08-14T16:17:52.368Z",
+    "completed_at": "2026-08-14T16:25:12.582Z"
   },
   "mst5p4sdxncqx": {
     "job_id": "mst5p4sdxncqx",
