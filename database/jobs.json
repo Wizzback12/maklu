@@ -846,8 +846,9 @@
     "user_id": 8478723586,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-14T15:35:52.344Z"
+    "status": "success",
+    "created_at": "2026-08-14T15:35:52.344Z",
+    "completed_at": "2026-08-14T15:42:41.624Z"
   },
   "mst45j1i5gw5x": {
     "job_id": "mst45j1i5gw5x",
