@@ -1602,5 +1602,16 @@
     "status": "failed",
     "created_at": "2026-08-15T15:38:14.089Z",
     "completed_at": "2026-08-15T15:38:56.584Z"
+  },
+  "msujxb3a2flj7": {
+    "job_id": "msujxb3a2flj7",
+    "release_id": 371088526,
+    "release_tag": "build-msujxb3a2flj7",
+    "run_id": 31893804327,
+    "user_id": 8456085156,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T15:49:34.867Z"
   }
 }
