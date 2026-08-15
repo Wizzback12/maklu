@@ -1423,5 +1423,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-15T12:57:16.537Z"
+  },
+  "msudvcfcg20ia": {
+    "job_id": "msudvcfcg20ia",
+    "release_id": 371050496,
+    "release_tag": "build-msudvcfcg20ia",
+    "run_id": 31886033308,
+    "user_id": 5558145825,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T13:00:04.937Z"
   }
 }
