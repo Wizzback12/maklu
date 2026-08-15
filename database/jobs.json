@@ -1698,5 +1698,16 @@
     "status": "success",
     "created_at": "2026-08-15T17:25:47.105Z",
     "completed_at": "2026-08-15T17:33:06.316Z"
+  },
+  "msut5a0hqclne": {
+    "job_id": "msut5a0hqclne",
+    "release_id": 371145027,
+    "release_tag": "build-msut5a0hqclne",
+    "run_id": 31905840771,
+    "user_id": 6806120812,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T20:07:42.202Z"
   }
 }
