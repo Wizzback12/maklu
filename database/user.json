@@ -311,8 +311,8 @@
     "first_name": "⏤͟͟͞͞⧼𝙭𝙙𝙖𝙣𝙯 𝙞𝙨 𝙝𝙚𝙧𝙚⧽",
     "last_name": null,
     "joinedAt": "2026-08-15T04:28:02.559Z",
-    "lastSeenAt": "2026-08-15T05:57:00.363Z",
-    "startCount": 4
+    "lastSeenAt": "2026-08-15T12:16:06.885Z",
+    "startCount": 5
   },
   "8227270391": {
     "id": 8227270391,
@@ -402,6 +402,15 @@
     "last_name": null,
     "joinedAt": "2026-08-15T11:38:40.912Z",
     "lastSeenAt": "2026-08-15T11:38:40.912Z",
+    "startCount": 1
+  },
+  "7415863181": {
+    "id": 7415863181,
+    "username": "VennZXdBoy",
+    "first_name": "VennnZ",
+    "last_name": null,
+    "joinedAt": "2026-08-15T11:59:44.228Z",
+    "lastSeenAt": "2026-08-15T11:59:44.228Z",
     "startCount": 1
   }
 }
