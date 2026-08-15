@@ -1243,5 +1243,16 @@
     "build_type": "analyze",
     "status": "pending",
     "created_at": "2026-08-15T09:06:35.813Z"
+  },
+  "msu5l0dw1p90c": {
+    "job_id": "msu5l0dw1p90c",
+    "release_id": 371006519,
+    "release_tag": "build-msu5l0dw1p90c",
+    "run_id": 31876211558,
+    "user_id": 2008479765,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T09:08:06.000Z"
   }
 }
