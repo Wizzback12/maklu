@@ -1649,5 +1649,16 @@
     "status": "failed",
     "created_at": "2026-08-15T16:40:27.787Z",
     "completed_at": "2026-08-15T16:43:57.521Z"
+  },
+  "msulwhgpmcwwt": {
+    "job_id": "msulwhgpmcwwt",
+    "release_id": 371103658,
+    "release_tag": "build-msulwhgpmcwwt",
+    "run_id": 31896364082,
+    "user_id": 8456085156,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T16:44:55.207Z"
   }
 }
