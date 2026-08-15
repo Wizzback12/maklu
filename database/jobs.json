@@ -1373,8 +1373,9 @@
     "user_id": 8680209300,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-15T12:17:11.614Z"
+    "status": "success",
+    "created_at": "2026-08-15T12:17:11.614Z",
+    "completed_at": "2026-08-15T12:23:49.307Z"
   },
   "msucdtwvj82u0": {
     "job_id": "msucdtwvj82u0",
