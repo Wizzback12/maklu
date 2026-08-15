@@ -1088,5 +1088,16 @@
     "status": "success",
     "created_at": "2026-08-15T05:09:40.012Z",
     "completed_at": "2026-08-15T05:16:17.319Z"
+  },
+  "mstz4dbcy0ah2": {
+    "job_id": "mstz4dbcy0ah2",
+    "release_id": 370973847,
+    "release_tag": "build-mstz4dbcy0ah2",
+    "run_id": 31868639485,
+    "user_id": 1974434388,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T06:07:11.448Z"
   }
 }
