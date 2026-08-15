@@ -600,5 +600,96 @@
     "amount": 1,
     "reason": "Build Flutter (ZIP)",
     "at": "2026-08-15T04:47:58.961Z"
+  },
+  {
+    "userId": 8227270391,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T05:07:34.230Z"
+  },
+  {
+    "userId": 1974434388,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-15T06:06:32.531Z"
+  },
+  {
+    "userId": 1974434388,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T06:07:00.537Z"
+  },
+  {
+    "userId": 8227270391,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T06:07:15.151Z"
+  },
+  {
+    "userId": 8226974014,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T06:21:50.116Z"
+  },
+  {
+    "userId": 1705496343,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T06:44:26.971Z"
+  },
+  {
+    "userId": 1528945727,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T06:58:58.052Z"
+  },
+  {
+    "userId": 5558145825,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T07:44:44.200Z"
+  },
+  {
+    "userId": 8388602170,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T07:45:10.380Z"
+  },
+  {
+    "userId": 1974434388,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T07:51:48.143Z"
+  },
+  {
+    "userId": 1528945727,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T08:09:33.513Z"
+  },
+  {
+    "userId": 8388602170,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T08:11:03.428Z"
+  },
+  {
+    "userId": 1528945727,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-15T08:25:55.562Z"
   }
 ]
