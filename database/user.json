@@ -374,8 +374,8 @@
     "first_name": "ZyLord",
     "last_name": null,
     "joinedAt": "2026-08-15T09:40:14.575Z",
-    "lastSeenAt": "2026-08-15T16:20:03.392Z",
-    "startCount": 3
+    "lastSeenAt": "2026-08-15T23:42:06.511Z",
+    "startCount": 4
   },
   "8725893316": {
     "id": 8725893316,
@@ -509,25 +509,7 @@
     "first_name": "@bàlz",
     "last_name": null,
     "joinedAt": "2026-08-15T18:12:33.337Z",
-    "lastSeenAt": "2026-08-15T18:52:06.666Z",
-    "startCount": 6
-  },
-  "8862690937": {
-    "id": 8862690937,
-    "username": "RanzzKece",
-    "first_name": "Ranzz",
-    "last_name": "Kece",
-    "joinedAt": "2026-08-15T18:34:25.021Z",
-    "lastSeenAt": "2026-08-15T18:34:25.353Z",
-    "startCount": 2
-  },
-  "8834246150": {
-    "id": 8834246150,
-    "username": "zeiiii_imottt",
-    "first_name": "zei",
-    "last_name": null,
-    "joinedAt": "2026-08-15T22:12:18.404Z",
-    "lastSeenAt": "2026-08-15T22:12:21.451Z",
-    "startCount": 4
+    "lastSeenAt": "2026-08-15T18:12:33.337Z",
+    "startCount": 1
   }
 }
