@@ -1503,7 +1503,8 @@
     "user_id": 6004304175,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-15T13:50:07.597Z"
+    "status": "success",
+    "created_at": "2026-08-15T13:50:07.597Z",
+    "completed_at": "2026-08-15T13:57:47.891Z"
   }
 }
