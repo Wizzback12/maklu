@@ -1527,8 +1527,9 @@
     "user_id": 8844143121,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-15T14:35:30.763Z"
+    "status": "success",
+    "created_at": "2026-08-15T14:35:30.763Z",
+    "completed_at": "2026-08-15T14:43:30.923Z"
   },
   "msuhb242wy63m": {
     "job_id": "msuhb242wy63m",
