@@ -1277,7 +1277,19 @@
     "user_id": 8388602170,
     "analyze_only": false,
     "build_type": "release",
+    "status": "success",
+    "created_at": "2026-08-15T09:40:59.692Z",
+    "completed_at": "2026-08-15T09:47:26.215Z"
+  },
+  "msu6zkcqwcbq4": {
+    "job_id": "msu6zkcqwcbq4",
+    "release_id": 371014210,
+    "release_tag": "build-msu6zkcqwcbq4",
+    "run_id": 31877884655,
+    "user_id": 8959202877,
+    "analyze_only": false,
+    "build_type": "release",
     "status": "pending",
-    "created_at": "2026-08-15T09:40:59.692Z"
+    "created_at": "2026-08-15T09:47:25.809Z"
   }
 }
