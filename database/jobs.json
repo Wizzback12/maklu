@@ -1232,5 +1232,16 @@
     "status": "failed",
     "created_at": "2026-08-15T08:34:05.257Z",
     "completed_at": "2026-08-15T08:34:37.350Z"
+  },
+  "msu5j2nx4908i": {
+    "job_id": "msu5j2nx4908i",
+    "release_id": 371006248,
+    "release_tag": "build-msu5j2nx4908i",
+    "run_id": 31876150639,
+    "user_id": 1528945727,
+    "analyze_only": true,
+    "build_type": "analyze",
+    "status": "pending",
+    "created_at": "2026-08-15T09:06:35.813Z"
   }
 }
