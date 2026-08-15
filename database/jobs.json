@@ -1316,5 +1316,16 @@
     "status": "failed",
     "created_at": "2026-08-15T10:42:45.856Z",
     "completed_at": "2026-08-15T10:46:26.058Z"
+  },
+  "msu9e6ohei51e": {
+    "job_id": "msu9e6ohei51e",
+    "release_id": 371026549,
+    "release_tag": "build-msu9e6ohei51e",
+    "run_id": 31880707351,
+    "user_id": 7562485429,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T10:54:45.897Z"
   }
 }
