@@ -1159,5 +1159,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-15T07:46:01.499Z"
+  },
+  "msu2oftyvy4sl": {
+    "job_id": "msu2oftyvy4sl",
+    "release_id": 370990971,
+    "release_tag": "build-msu2oftyvy4sl",
+    "run_id": 31872820322,
+    "user_id": 8388602170,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T07:46:47.031Z"
   }
 }
