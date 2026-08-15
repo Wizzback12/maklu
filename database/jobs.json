@@ -1328,5 +1328,16 @@
     "status": "failed",
     "created_at": "2026-08-15T10:54:45.897Z",
     "completed_at": "2026-08-15T10:58:57.164Z"
+  },
+  "msu9pmc2ntw3t": {
+    "job_id": "msu9pmc2ntw3t",
+    "release_id": 371028120,
+    "release_tag": "build-msu9pmc2ntw3t",
+    "run_id": 31881089829,
+    "user_id": 7562485429,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T11:03:39.462Z"
   }
 }
