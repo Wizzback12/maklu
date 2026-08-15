@@ -1375,5 +1375,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-15T12:17:11.614Z"
+  },
+  "msucdtwvj82u0": {
+    "job_id": "msucdtwvj82u0",
+    "release_id": 371042166,
+    "release_tag": "build-msucdtwvj82u0",
+    "run_id": 31884265607,
+    "user_id": 8352523277,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T12:18:27.002Z"
   }
 }
