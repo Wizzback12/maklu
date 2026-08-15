@@ -1124,5 +1124,16 @@
     "status": "success",
     "created_at": "2026-08-15T06:24:08.886Z",
     "completed_at": "2026-08-15T06:30:35.650Z"
+  },
+  "msu0giyix1zib": {
+    "job_id": "msu0giyix1zib",
+    "release_id": 370980373,
+    "release_tag": "build-msu0giyix1zib",
+    "run_id": 31870196975,
+    "user_id": 1705496343,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T06:44:38.172Z"
   }
 }
