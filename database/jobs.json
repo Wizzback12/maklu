@@ -1412,5 +1412,16 @@
     "status": "failed",
     "created_at": "2026-08-15T12:52:37.200Z",
     "completed_at": "2026-08-15T12:56:17.186Z"
+  },
+  "msudrq3gjhvm1": {
+    "job_id": "msudrq3gjhvm1",
+    "release_id": 371049953,
+    "release_tag": "build-msudrq3gjhvm1",
+    "run_id": 31885916495,
+    "user_id": 1590827265,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T12:57:16.537Z"
   }
 }
