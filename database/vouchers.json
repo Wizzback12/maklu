@@ -2,7 +2,9 @@
   "TIRZZ-92970C32": {
     "amount": 6,
     "maxUses": 1,
-    "usedBy": [],
+    "usedBy": [
+      8369443744
+    ],
     "createdAt": "2026-08-15T12:59:09.569Z"
   }
 }
