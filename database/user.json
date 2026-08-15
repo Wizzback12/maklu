@@ -329,8 +329,8 @@
     "first_name": "⏤͟͟͞͞⧼𝙭𝙙𝙖𝙣𝙯 𝙞𝙨 𝙝𝙚𝙧𝙚⧽",
     "last_name": null,
     "joinedAt": "2026-08-15T04:28:02.559Z",
-    "lastSeenAt": "2026-08-15T13:18:23.250Z",
-    "startCount": 6
+    "lastSeenAt": "2026-08-15T13:44:52.867Z",
+    "startCount": 7
   },
   "8227270391": {
     "id": 8227270391,
@@ -352,12 +352,12 @@
   },
   "6004304175": {
     "id": 6004304175,
-    "username": "dimzzajalah",
+    "username": "dimxxajalah",
     "first_name": "DIMX-X-ONE",
     "last_name": null,
     "joinedAt": "2026-08-15T09:28:29.719Z",
-    "lastSeenAt": "2026-08-15T09:28:29.719Z",
-    "startCount": 1
+    "lastSeenAt": "2026-08-15T13:27:45.252Z",
+    "startCount": 2
   },
   "8388602170": {
     "id": 8388602170,
@@ -438,15 +438,6 @@
     "last_name": null,
     "joinedAt": "2026-08-15T13:07:01.625Z",
     "lastSeenAt": "2026-08-15T13:07:01.625Z",
-    "startCount": 1
-  },
-  "8831298833": {
-    "id": 8831298833,
-    "username": "dbanido",
-    "first_name": "@bàlz",
-    "last_name": null,
-    "joinedAt": "2026-08-15T13:38:57.375Z",
-    "lastSeenAt": "2026-08-15T13:38:57.375Z",
     "startCount": 1
   }
 }
