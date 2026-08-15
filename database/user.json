@@ -122,8 +122,8 @@
     "first_name": "⸸𝚡𝚟𝚊𝚗𝚎𝚜𝚌𝚝 𝙳𝚒𝚗𝚣𝚣𝙺𝚊𝚌𝚒𝚠𝚠",
     "last_name": null,
     "joinedAt": "2026-08-14T15:30:48.437Z",
-    "lastSeenAt": "2026-08-15T09:48:38.463Z",
-    "startCount": 3
+    "lastSeenAt": "2026-08-15T14:03:19.124Z",
+    "startCount": 4
   },
   "2008479765": {
     "id": 2008479765,
@@ -456,15 +456,6 @@
     "last_name": null,
     "joinedAt": "2026-08-15T13:54:50.126Z",
     "lastSeenAt": "2026-08-15T13:54:50.126Z",
-    "startCount": 1
-  },
-  "8831298833": {
-    "id": 8831298833,
-    "username": "dbanido",
-    "first_name": "@bàlz",
-    "last_name": null,
-    "joinedAt": "2026-08-15T13:56:35.373Z",
-    "lastSeenAt": "2026-08-15T13:56:35.373Z",
     "startCount": 1
   }
 }
