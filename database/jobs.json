@@ -1256,5 +1256,16 @@
     "status": "failed",
     "created_at": "2026-08-15T09:08:06.000Z",
     "completed_at": "2026-08-15T09:11:35.820Z"
+  },
+  "msu6flonf1z7s": {
+    "job_id": "msu6flonf1z7s",
+    "release_id": 371011293,
+    "release_tag": "build-msu6flonf1z7s",
+    "run_id": 31877229198,
+    "user_id": 6004304175,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T09:31:56.217Z"
   }
 }
