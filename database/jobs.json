@@ -1755,7 +1755,8 @@
     "user_id": 7721801955,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-16T00:49:59.354Z"
+    "status": "failed",
+    "created_at": "2026-08-16T00:49:59.354Z",
+    "completed_at": "2026-08-16T00:53:49.611Z"
   }
 }
