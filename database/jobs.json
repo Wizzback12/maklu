@@ -2130,5 +2130,16 @@
     "status": "failed",
     "created_at": "2026-08-16T08:00:49.522Z",
     "completed_at": "2026-08-16T08:01:11.313Z"
+  },
+  "msvjcp36t98bz": {
+    "job_id": "msvjcp36t98bz",
+    "release_id": 371270901,
+    "release_tag": "build-msvjcp36t98bz",
+    "run_id": 31936241242,
+    "user_id": 8747272578,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-16T08:21:20.845Z"
   }
 }
