@@ -1911,7 +1911,8 @@
     "user_id": 6535940506,
     "analyze_only": true,
     "build_type": "analyze",
-    "status": "pending",
-    "created_at": "2026-08-16T04:15:07.811Z"
+    "status": "success",
+    "created_at": "2026-08-16T04:15:07.811Z",
+    "completed_at": "2026-08-16T04:19:09.737Z"
   }
 }
