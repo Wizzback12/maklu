@@ -2187,8 +2187,9 @@
     "user_id": 6200725887,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-16T10:28:11.113Z"
+    "status": "success",
+    "created_at": "2026-08-16T10:28:11.113Z",
+    "completed_at": "2026-08-16T10:34:27.262Z"
   },
   "msvnwfgi0is5z": {
     "job_id": "msvnwfgi0is5z",
