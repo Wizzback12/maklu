@@ -1962,5 +1962,16 @@
     "status": "failed",
     "created_at": "2026-08-16T04:44:02.148Z",
     "completed_at": "2026-08-16T04:47:21.913Z"
+  },
+  "msvc8t9rhxtat": {
+    "job_id": "msvc8t9rhxtat",
+    "release_id": 371235794,
+    "release_tag": "build-msvc8t9rhxtat",
+    "run_id": 31928055748,
+    "user_id": 1629305481,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-16T05:02:21.296Z"
   }
 }
