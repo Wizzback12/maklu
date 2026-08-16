@@ -1971,7 +1971,19 @@
     "user_id": 1629305481,
     "analyze_only": false,
     "build_type": "release",
+    "status": "failed",
+    "created_at": "2026-08-16T05:02:21.296Z",
+    "completed_at": "2026-08-16T05:06:54.260Z"
+  },
+  "msvcenqsnd09q": {
+    "job_id": "msvcenqsnd09q",
+    "release_id": 371236501,
+    "release_tag": "build-msvcenqsnd09q",
+    "run_id": 31928238690,
+    "user_id": 1124439147,
+    "analyze_only": false,
+    "build_type": "release",
     "status": "pending",
-    "created_at": "2026-08-16T05:02:21.296Z"
+    "created_at": "2026-08-16T05:06:53.474Z"
   }
 }
