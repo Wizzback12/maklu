@@ -1293,5 +1293,61 @@
     "amount": 1,
     "reason": "Build Flutter (ZIP)",
     "at": "2026-08-16T03:52:30.995Z"
+  },
+  {
+    "userId": 6535940506,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-16T04:12:15.332Z"
+  },
+  {
+    "userId": 6535940506,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP) [debug]",
+    "at": "2026-08-16T04:15:01.129Z"
+  },
+  {
+    "userId": 8202514610,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-16T04:22:01.957Z"
+  },
+  {
+    "userId": 8202514610,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-16T04:23:15.419Z"
+  },
+  {
+    "userId": 8202514610,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP) [debug]",
+    "at": "2026-08-16T04:32:57.757Z"
+  },
+  {
+    "userId": 1124439147,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-16T04:33:37.206Z"
+  },
+  {
+    "userId": 1124439147,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-16T04:34:03.662Z"
+  },
+  {
+    "userId": 7849763924,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-16T04:40:30.858Z"
   }
 ]
