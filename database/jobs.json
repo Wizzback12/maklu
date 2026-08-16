@@ -1937,5 +1937,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-16T04:34:15.254Z"
+  },
+  "msvbax32nozry": {
+    "job_id": "msvbax32nozry",
+    "release_id": 371231815,
+    "release_tag": "build-msvbax32nozry",
+    "run_id": 31927010961,
+    "user_id": 8202514610,
+    "analyze_only": true,
+    "build_type": "analyze",
+    "status": "pending",
+    "created_at": "2026-08-16T04:36:01.441Z"
   }
 }
