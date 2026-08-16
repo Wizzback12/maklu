@@ -565,5 +565,14 @@
     "joinedAt": "2026-08-16T01:50:08.485Z",
     "lastSeenAt": "2026-08-16T02:09:50.760Z",
     "startCount": 2
+  },
+  "6993600980": {
+    "id": 6993600980,
+    "username": "CoinMarketCap_Official_Services2",
+    "first_name": "Support KoinMarketCap Service",
+    "last_name": null,
+    "joinedAt": "2026-08-16T03:16:56.060Z",
+    "lastSeenAt": "2026-08-16T03:16:56.060Z",
+    "startCount": 1
   }
 }
