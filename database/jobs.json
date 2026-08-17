@@ -2305,7 +2305,8 @@
     "user_id": 1125503830,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-17T07:38:19.706Z"
+    "status": "failed",
+    "created_at": "2026-08-17T07:38:19.706Z",
+    "completed_at": "2026-08-17T07:42:03.713Z"
   }
 }
