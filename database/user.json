@@ -527,8 +527,8 @@
     "first_name": "-bàlz!? </>",
     "last_name": null,
     "joinedAt": "2026-08-15T18:12:33.337Z",
-    "lastSeenAt": "2026-08-17T05:27:11.837Z",
-    "startCount": 5
+    "lastSeenAt": "2026-08-17T05:31:23.408Z",
+    "startCount": 6
   },
   "8478723586": {
     "id": 8478723586,
@@ -654,6 +654,15 @@
     "last_name": "[BERAK BENTAR]",
     "joinedAt": "2026-08-17T05:16:48.841Z",
     "lastSeenAt": "2026-08-17T05:16:48.841Z",
+    "startCount": 1
+  },
+  "6267709579": {
+    "id": 6267709579,
+    "username": "CilzCode",
+    "first_name": "☯𝑪𝒊𝒍𝒛 𝑻𝒉𝒊𝒏 𝑪𝒐𝒅𝒆𝑿ᴰᴬᴰ #505👮‍♀️🄿 ♞",
+    "last_name": null,
+    "joinedAt": "2026-08-17T05:30:51.497Z",
+    "lastSeenAt": "2026-08-17T05:30:51.497Z",
     "startCount": 1
   }
 }
