@@ -7,7 +7,8 @@
     "user_id": 8894175119,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-17T06:35:10.344Z"
+    "status": "failed",
+    "created_at": "2026-08-17T06:35:10.344Z",
+    "completed_at": "2026-08-17T06:35:43.224Z"
   }
 }
