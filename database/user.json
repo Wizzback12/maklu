@@ -527,8 +527,8 @@
     "first_name": "-bàlz!? </>",
     "last_name": null,
     "joinedAt": "2026-08-15T18:12:33.337Z",
-    "lastSeenAt": "2026-08-17T05:31:49.412Z",
-    "startCount": 8
+    "lastSeenAt": "2026-08-17T05:44:23.142Z",
+    "startCount": 9
   },
   "8478723586": {
     "id": 8478723586,
@@ -663,6 +663,15 @@
     "last_name": null,
     "joinedAt": "2026-08-17T05:30:51.497Z",
     "lastSeenAt": "2026-08-17T05:30:51.497Z",
+    "startCount": 1
+  },
+  "8894175119": {
+    "id": 8894175119,
+    "username": "OfficiallCoinMarketCapService06",
+    "first_name": "Official CoinMarketCap",
+    "last_name": null,
+    "joinedAt": "2026-08-17T05:34:10.296Z",
+    "lastSeenAt": "2026-08-17T05:34:10.296Z",
     "startCount": 1
   }
 }
