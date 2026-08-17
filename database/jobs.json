@@ -2272,5 +2272,16 @@
     "status": "failed",
     "created_at": "2026-08-17T05:49:08.981Z",
     "completed_at": "2026-08-17T05:49:30.864Z"
+  },
+  "mswtqqxx7qey3": {
+    "job_id": "mswtqqxx7qey3",
+    "release_id": 371550974,
+    "release_tag": "build-mswtqqxx7qey3",
+    "run_id": 31999912097,
+    "user_id": 1396753786,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T06:00:28.173Z"
   }
 }
