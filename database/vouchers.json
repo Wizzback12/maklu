@@ -36,7 +36,9 @@
   "TIRZZ-19BFA672": {
     "amount": 999999,
     "maxUses": 99999,
-    "usedBy": [],
+    "usedBy": [
+      7155869912
+    ],
     "createdAt": "2026-08-20T23:53:46.615Z"
   }
 }
