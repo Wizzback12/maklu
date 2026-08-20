@@ -1657,5 +1657,19 @@
     "amount": 1,
     "reason": "Rename Domain",
     "at": "2026-08-20T23:49:26.864Z"
+  },
+  {
+    "userId": 7155869912,
+    "type": "earn",
+    "amount": 999999,
+    "reason": "Redeem voucher",
+    "at": "2026-08-20T23:55:31.666Z"
+  },
+  {
+    "userId": 7155869912,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-20T23:57:47.668Z"
   }
 ]
