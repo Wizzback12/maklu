@@ -1895,5 +1895,12 @@
     "amount": 1,
     "reason": "Build Flutter (ZIP)",
     "at": "2026-08-21T15:48:39.610Z"
+  },
+  {
+    "userId": 7849763924,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP) [debug]",
+    "at": "2026-08-21T16:02:06.998Z"
   }
 ]
