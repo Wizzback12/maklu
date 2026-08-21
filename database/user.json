@@ -700,5 +700,14 @@
     "joinedAt": "2026-08-20T14:15:02.195Z",
     "lastSeenAt": "2026-08-20T23:55:33.062Z",
     "startCount": 8
+  },
+  "8445843711": {
+    "id": 8445843711,
+    "username": "Leonotdev",
+    "first_name": "Leo",
+    "last_name": null,
+    "joinedAt": "2026-08-21T00:09:17.405Z",
+    "lastSeenAt": "2026-08-21T00:09:17.405Z",
+    "startCount": 1
   }
 }
