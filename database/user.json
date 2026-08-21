@@ -736,5 +736,14 @@
     "joinedAt": "2026-08-21T10:32:48.063Z",
     "lastSeenAt": "2026-08-21T10:32:48.063Z",
     "startCount": 1
+  },
+  "8120723484": {
+    "id": 8120723484,
+    "username": "MonzoSupportBank7340",
+    "first_name": "Support Monzo Banking Service",
+    "last_name": null,
+    "joinedAt": "2026-08-21T11:12:06.498Z",
+    "lastSeenAt": "2026-08-21T11:12:06.498Z",
+    "startCount": 1
   }
 }
