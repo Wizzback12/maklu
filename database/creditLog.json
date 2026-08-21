@@ -1797,5 +1797,12 @@
     "amount": 1,
     "reason": "Rename Domain",
     "at": "2026-08-21T11:59:15.913Z"
+  },
+  {
+    "userId": 8580570122,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-21T12:01:14.743Z"
   }
 ]
