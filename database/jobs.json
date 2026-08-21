@@ -2492,7 +2492,8 @@
     "user_id": 8981319402,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-21T15:32:11.990Z"
+    "status": "success",
+    "created_at": "2026-08-21T15:32:11.990Z",
+    "completed_at": "2026-08-21T15:39:41.345Z"
   }
 }
