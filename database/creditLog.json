@@ -1720,5 +1720,12 @@
     "amount": 1,
     "reason": "Build Flutter (ZIP)",
     "at": "2026-08-21T06:22:30.825Z"
+  },
+  {
+    "userId": 8316689231,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-21T09:55:48.645Z"
   }
 ]
