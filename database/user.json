@@ -155,11 +155,11 @@
   "1974927893": {
     "id": 1974927893,
     "username": "Dinzxjustinbibier",
-    "first_name": "⸸𝚡𝚟𝚊𝚗𝚎𝚜𝚌𝚝 𝙳𝚒𝚗𝚣𝚣𝙺𝚊𝚌𝚒𝚠𝚠",
+    "first_name": "⸸𝚡𝚟𝚊𝚗𝚎𝚜𝚌𝚝 𝙳𝚒𝚗𝚣𝚣𝙺𝚊𝚌𝚒𝚠𝚠 [ jrng on ]",
     "last_name": null,
     "joinedAt": "2026-08-14T15:30:48.437Z",
-    "lastSeenAt": "2026-08-15T14:03:19.124Z",
-    "startCount": 4
+    "lastSeenAt": "2026-08-22T10:55:29.956Z",
+    "startCount": 5
   },
   "2008479765": {
     "id": 2008479765,
@@ -915,6 +915,15 @@
     "last_name": null,
     "joinedAt": "2026-08-22T03:43:31.995Z",
     "lastSeenAt": "2026-08-22T03:43:31.995Z",
+    "startCount": 1
+  },
+  "8690433004": {
+    "id": 8690433004,
+    "username": null,
+    "first_name": "Lau",
+    "last_name": null,
+    "joinedAt": "2026-08-22T10:47:41.856Z",
+    "lastSeenAt": "2026-08-22T10:47:41.856Z",
     "startCount": 1
   }
 }
