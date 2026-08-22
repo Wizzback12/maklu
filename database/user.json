@@ -880,5 +880,14 @@
     "joinedAt": "2026-08-22T01:04:08.021Z",
     "lastSeenAt": "2026-08-22T01:04:08.021Z",
     "startCount": 1
+  },
+  "8263349227": {
+    "id": 8263349227,
+    "username": "Monzo_Support_ServiceOfficial75",
+    "first_name": "Support Monzo Banking Service",
+    "last_name": null,
+    "joinedAt": "2026-08-22T02:09:37.643Z",
+    "lastSeenAt": "2026-08-22T02:09:37.643Z",
+    "startCount": 1
   }
 }
