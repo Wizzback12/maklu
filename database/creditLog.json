@@ -1965,5 +1965,19 @@
     "amount": 1,
     "reason": "JS/HTML to Dart",
     "at": "2026-08-22T01:05:08.667Z"
+  },
+  {
+    "userId": 1911800136,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit gratis mingguan",
+    "at": "2026-08-22T01:17:17.935Z"
+  },
+  {
+    "userId": 1911800136,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-22T01:17:17.938Z"
   }
 ]
