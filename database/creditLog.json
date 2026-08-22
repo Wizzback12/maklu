@@ -2182,5 +2182,19 @@
     "amount": 1,
     "reason": "Build Flutter (ZIP)",
     "at": "2026-08-22T14:16:26.338Z"
+  },
+  {
+    "userId": 8680209300,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit gratis mingguan",
+    "at": "2026-08-22T19:26:34.963Z"
+  },
+  {
+    "userId": 8680209300,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-22T19:26:34.965Z"
   }
 ]
