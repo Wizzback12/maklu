@@ -30,7 +30,9 @@
   "WIZZ-F2C33D12": {
     "amount": 50,
     "maxUses": 5,
-    "usedBy": [],
+    "usedBy": [
+      8106964781
+    ],
     "createdAt": "2026-08-16T02:34:25.826Z"
   },
   "TIRZZ-19BFA672": {
