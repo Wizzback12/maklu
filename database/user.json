@@ -374,8 +374,8 @@
     "first_name": "𝗕𝗔𝗥𝗧𝗭𝗫",
     "last_name": null,
     "joinedAt": "2026-08-15T04:07:56.596Z",
-    "lastSeenAt": "2026-08-21T15:18:40.744Z",
-    "startCount": 4
+    "lastSeenAt": "2026-08-23T04:20:23.848Z",
+    "startCount": 5
   },
   "8680209300": {
     "id": 8680209300,
@@ -960,6 +960,15 @@
     "last_name": null,
     "joinedAt": "2026-08-23T02:57:23.395Z",
     "lastSeenAt": "2026-08-23T02:57:23.395Z",
+    "startCount": 1
+  },
+  "8552675557": {
+    "id": 8552675557,
+    "username": "KIZZ_FEMOUS",
+    "first_name": "𝐙𝐀𝐗𝐂𝐊𝐈𝐙𝐙 вυℓѕнιт",
+    "last_name": null,
+    "joinedAt": "2026-08-23T04:10:14.150Z",
+    "lastSeenAt": "2026-08-23T04:10:14.150Z",
     "startCount": 1
   }
 }
