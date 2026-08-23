@@ -794,11 +794,11 @@
   "8625040331": {
     "id": 8625040331,
     "username": "Lang4amm",
-    "first_name": "〔 𝗚𝗘𝗡𝗢𝗦𝗜𝗗𝗘 〕</𝘼𝙠𝙪",
+    "first_name": "</𝘼𝙠𝙪",
     "last_name": "LANG4AM>",
     "joinedAt": "2026-08-21T11:52:09.796Z",
-    "lastSeenAt": "2026-08-21T11:52:09.796Z",
-    "startCount": 1
+    "lastSeenAt": "2026-08-23T03:41:26.727Z",
+    "startCount": 2
   },
   "8409262492": {
     "id": 8409262492,
@@ -943,5 +943,23 @@
     "joinedAt": "2026-08-22T19:38:10.741Z",
     "lastSeenAt": "2026-08-22T19:38:17.636Z",
     "startCount": 2
+  },
+  "7678329817": {
+    "id": 7678329817,
+    "username": "rafz_whov",
+    "first_name": "『 𝐈𝐬 』𝑷𝒆𝒏𝒈𝒆𝒓𝒂𝒏 𝒓𝒂𝒇𝒛 𝓛𝓸𝓸𝓴𝓲𝓼𝓶",
+    "last_name": null,
+    "joinedAt": "2026-08-23T02:24:35.732Z",
+    "lastSeenAt": "2026-08-23T02:24:35.732Z",
+    "startCount": 1
+  },
+  "7523570109": {
+    "id": 7523570109,
+    "username": "flowpeachieee",
+    "first_name": "Lotus Éclipse",
+    "last_name": null,
+    "joinedAt": "2026-08-23T02:57:23.395Z",
+    "lastSeenAt": "2026-08-23T02:57:23.395Z",
+    "startCount": 1
   }
 }
