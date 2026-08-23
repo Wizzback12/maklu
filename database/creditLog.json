@@ -2252,5 +2252,12 @@
     "amount": 1,
     "reason": "Rename Domain",
     "at": "2026-08-23T04:11:59.183Z"
+  },
+  {
+    "userId": 5528005225,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-23T04:41:51.326Z"
   }
 ]
