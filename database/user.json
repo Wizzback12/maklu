@@ -986,8 +986,8 @@
     "first_name": "𝗺𝗼𝘆𝘇𝗶𝗲",
     "last_name": null,
     "joinedAt": "2026-08-27T02:56:33.675Z",
-    "lastSeenAt": "2026-08-28T09:30:34.552Z",
-    "startCount": 6
+    "lastSeenAt": "2026-08-28T09:24:07.832Z",
+    "startCount": 5
   },
   "5667125674": {
     "id": 5667125674,
@@ -997,5 +997,14 @@
     "joinedAt": "2026-08-27T03:22:46.569Z",
     "lastSeenAt": "2026-08-27T06:48:54.021Z",
     "startCount": 4
+  },
+  "5559296832": {
+    "id": 5559296832,
+    "username": "moyzieampos",
+    "first_name": "𝒎𝒐𝒚𝒛𝒊𝒆¿",
+    "last_name": null,
+    "joinedAt": "2026-08-28T09:32:33.920Z",
+    "lastSeenAt": "2026-08-28T09:32:33.920Z",
+    "startCount": 1
   }
 }
